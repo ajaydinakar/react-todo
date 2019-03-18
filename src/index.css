@@ -12,3 +12,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.background{
+  background-size: 'cover';
+ 
+  background-image: url("https://c8.alamy.com/comp/RA4FJP/to-do-list-abstract-dark-natural-wooden-brown-background-green-pin-RA4FJP.jpg");
+  resize: 'cover';
+  
+}
